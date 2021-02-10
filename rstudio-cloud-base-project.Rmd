@@ -1,0 +1,23 @@
+---
+title: "R Studio Cloud - Base Project"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Background
+
+## Install packages
+
+All packages that are needed for the course
+
+```{r}
+
+## lab 01
+
+install.packages("tidyverse", "datasauRus")
+
+```
+
