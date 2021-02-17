@@ -11,7 +11,16 @@ All packages that are needed for the course
 
 ```{r}
 
+## lab 00
+
+install.packages("palmerpenguins")
+
+
 ## lab 01
+install.packages("devtools")
+devtools::install_github("hadley/emo")
+
+## lab 02
 
 packages <- c("knitr", "tidyverse", "datasauRus")
 
