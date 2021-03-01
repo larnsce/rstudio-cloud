@@ -17,8 +17,8 @@ install.packages("palmerpenguins")
 
 
 ## lab 01
-install.packages("devtools")
-devtools::install_github("hadley/emo")
+#install.packages("devtools")
+#devtools::install_github("hadley/emo")
 
 ## lab 02
 
