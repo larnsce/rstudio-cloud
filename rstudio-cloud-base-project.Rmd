@@ -26,6 +26,10 @@ packages <- c("knitr", "tidyverse", "datasauRus")
 
 install.packages(packages)
 
+install.packages("nycflights13")
+install.packages("janitor")
+#install.packages("sf")
+
 
 ```
 
