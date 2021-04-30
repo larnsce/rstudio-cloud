@@ -7,7 +7,7 @@ output: html_document
 
 ## Install packages
 
-All packages that are needed for the course
+All packages that are needed for the course. They only need to be installed once from this script. The project will then be executed as a base project.
 
 ```{r}
 
@@ -26,10 +26,23 @@ packages <- c("knitr", "tidyverse", "datasauRus")
 
 install.packages(packages)
 
+## ha03
+
 install.packages("nycflights13")
 install.packages("janitor")
-#install.packages("sf")
+
+# ha06
+
+install.packages("DBI")
+install.packages("dbplyr")
+install.packages("RSQLite")
+
+# demo03
+
+install.packages("distill")
+install.packages("gt")
+install.packages("plotly")
+install.packages("here")
 
 
 ```
-
