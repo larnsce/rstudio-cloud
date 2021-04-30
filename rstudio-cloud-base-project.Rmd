@@ -44,5 +44,9 @@ install.packages("gt")
 install.packages("plotly")
 install.packages("here")
 
+# prak10
+
+install.packages("DT")
+
 
 ```
