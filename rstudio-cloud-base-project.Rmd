@@ -26,6 +26,10 @@ packages <- c("knitr", "tidyverse", "datasauRus")
 
 install.packages(packages)
 
+## prak 05
+
+install.packages("skimr")
+
 ## ha03
 
 install.packages("nycflights13")
